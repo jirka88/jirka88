@@ -1,8 +1,11 @@
 ## Hi there! 👋
-
-### Skills 🖥️
-[![My Skills](https://skillicons.dev/icons?i=vue,php,js,html,css,git)](https://skillicons.dev)
-
+My name is Jiří Navrátil and I deal mainly with web application development.
+### What I work with 🖥️
+[![My Skills](https://skillicons.dev/icons?i=vue,php,js,net,cs,html,css,bootstrap,git,photoshop)](https://skillicons.dev)
+### What I'm learning 📖
+[![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
+### What I want to learn in the future 🔮
+[![My Skills](https://skillicons.dev/icons?i=typescript,java)](https://skillicons.dev)
 <!--
 **jirka88/jirka88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
