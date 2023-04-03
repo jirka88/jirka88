@@ -1,7 +1,15 @@
 ## Hi there! 👋
 My name is Jiří Navrátil and I deal mainly with web application development.
 ### What I work with 🖥️
-[![My Skills](https://skillicons.dev/icons?i=vue,php,js,net,cs,html,css,bootstrap,git,photoshop)](https://skillicons.dev)
+#### Frontend 👩‍💻
+[![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,bootstrap)](https://skillicons.dev)
+#### Backend 👨‍💻
+[![My Skills](https://skillicons.dev/icons?i=php,net,cs)](https://skillicons.dev)
+#### Design 🖌 
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
+#### Others 
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+##
 ### What I'm learning 📖
 [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
 ### What I want to learn in the future 🔮
