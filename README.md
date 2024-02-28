@@ -4,16 +4,16 @@ My name is Jiří Navrátil and I deal mainly with **web application development
 #### Frontend 👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,bootstrap)](https://skillicons.dev)
 #### Backend 👨‍💻
-[![My Skills](https://skillicons.dev/icons?i=php,net,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,net,cs,laravel)](https://skillicons.dev)
 #### Design 🖌 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
 #### Others 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 ##
 ### What I'm learning 📖
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,java,typescript,nodejs,expressjs,)](https://skillicons.dev)
 ### What I want to learn in the future 🔮
-[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 <!--
 **jirka88/jirka88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
