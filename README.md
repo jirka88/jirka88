@@ -1,6 +1,6 @@
 ## Hi there! 👋
 My name is Jiří Navrátil and I deal mainly with **web application development**.
-### What I work with 🖥️
+### Experiences with 🖥️
 #### Frontend 👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=vue,js,html,css,bootstrap)](https://skillicons.dev)
 #### Backend 👨‍💻
