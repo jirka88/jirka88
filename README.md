@@ -11,8 +11,9 @@ My name is Jiří Navrátil and I deal mainly with **web application development
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 ##
 ### What I'm learning 📖
-[![My Skills](https://skillicons.dev/icons?i=react,java,typescript,nodejs,expressjs,mongodb,redis,jest,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,java,typescript,nodejs,expressjs,mongodb,redis,docker)](https://skillicons.dev)
 ### What I want to learn in the future 🔮
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 <!--
 **jirka88/jirka88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
